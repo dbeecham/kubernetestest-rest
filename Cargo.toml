@@ -1,0 +1,8 @@
+[package]
+name = "iot-rest"
+version = "0.0.1"
+authors = ["Daniel Beecham <daniel@lunix.se>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "0.7"
